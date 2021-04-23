@@ -77,14 +77,6 @@ The above example means that the interaction between (1, 2) and (1, 3) is antife
     <td> Yusei Fujimoto</td>
     <td>yu25fujimoto"@"kandaquantum.co.jp ( <a href="https://github.com/oilneck?tab=repositories"> Github Links </a> )</td>
 </tr>
-<tr>
-    <td> Daisuke Motoki</td>
-    <td>motoki.daisuke"@"kandaquantum.co.jp</td>
-</tr>
-<tr>
-    <td>Hiroto Nakamura </td>
-    <td> hiropy.nakamura"@"kandaquantum.co.jp</td>
-</tr>
 </tbody>
 </table>
 
