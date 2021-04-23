@@ -13,7 +13,7 @@ The inverse Ising problem is to estimate the spin-spin interaction from the spin
 ## Installation
 
 ```
-julia> Pkg.add("InverseIsing")
+pkg> add https://github.com/oilneck/InverseIsing.jl
 ```
 
 ## Basic Usage
@@ -66,7 +66,7 @@ OrderedCollections.OrderedDict{Tuple{Int64,Int64},Int64} with 3 entries:
 ```
 The above example means that the interaction between (1, 2) and (1, 3) is antiferromagnetic bond and only (2, 3) is ferromagnetic bond.
 
-## Authors
+## Author
 <table class="table table-hover"></td>
 <tbody>
 <tr>
@@ -85,7 +85,7 @@ The above example means that the interaction between (1, 2) and (1, 3) is antife
 * E. Aurell and M. Ekeberg, Phys. Rev. Lett. **108**, 090201 (2012)
 
 ## About us
-This product is produced by KandaQuantum Inc.
+This product was co-produced with KandaQuantum Inc.
 
 __Website for more information ->__ https://kandaquantum.com/
 
