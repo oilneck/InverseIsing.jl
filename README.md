@@ -1,5 +1,5 @@
 # InverseIsing.jl
-
+[![Coverage Status](https://coveralls.io/repos/github/oilneck/InverseIsing.jl/badge.svg)](https://coveralls.io/github/oilneck/InverseIsing.jl)
 
 Inverse Ising inference for General Boltzmann Machines [GBM].
 
