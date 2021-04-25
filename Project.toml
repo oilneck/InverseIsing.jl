@@ -1,7 +1,7 @@
 name = "InverseIsing"
 uuid = "52c454c7-7088-40af-988f-f8cda9361c5e"
 authors = ["oilneck <yuusei225@gmail.com>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 CurveFit = "5a033b19-8c74-5913-a970-47c3779ef25c"
