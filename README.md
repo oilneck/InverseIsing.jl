@@ -1,6 +1,7 @@
 # InverseIsing.jl
 [![Build Status](https://travis-ci.com/oilneck/InverseIsing.jl.svg?branch=main)](https://travis-ci.com/oilneck/InverseIsing.jl)
 [![Coverage Status](https://coveralls.io/repos/github/oilneck/InverseIsing.jl/badge.svg)](https://coveralls.io/github/oilneck/InverseIsing.jl)
+[![codecov](https://codecov.io/gh/oilneck/InverseIsing.jl/branch/main/graph/badge.svg?token=319TZLIM71)](https://codecov.io/gh/oilneck/InverseIsing.jl)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
 
