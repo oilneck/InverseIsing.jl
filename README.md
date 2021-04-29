@@ -17,7 +17,7 @@ The inverse Ising problem is to estimate the spin-spin interaction from the spin
 ## Installation
 
 ```
-pkg> add https://github.com/oilneck/InverseIsing.jl
+Pkg.add("InverseIsing")
 ```
 
 ## Basic Usage
