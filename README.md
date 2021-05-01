@@ -40,6 +40,7 @@ julia> result.states
  [-1, -1]
 ```
 
+
 ### 2. Inverse Ising Estimater
 
 Train GBM parameters:
