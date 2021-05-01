@@ -29,7 +29,7 @@ julia> using InverseIsing
 
 julia> h = Dict(1 => -1) # Longitudinal magnetic field
 
-julia> J = Dict((1, 2) => -1) # Ferromagnetic-bond
+julia> J = Dict((1, 2) => 1) # Ferromagnetic-bond
 
 julia> result = anneal(h, J)
 ```
